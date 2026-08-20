@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJ-PjlHwF201UchX6mih-2" value="计算参考功率" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="220" width="150" height="75" as="geometry" />
+          <mxGeometry x="222.5" y="200" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nJ-PjlHwF201UchX6mih-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJ-PjlHwF201UchX6mih-4" target="nJ-PjlHwF201UchX6mih-6">
           <mxGeometry relative="1" as="geometry" />
