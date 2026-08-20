@@ -10,7 +10,7 @@
         <mxCell id="nJ-PjlHwF201UchX6mih-1" value="原始SwellEx时域数据&lt;div&gt;(J1312315.vla.21els.sio)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nJ-PjlHwF201UchX6mih-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="nJ-PjlHwF201UchX6mih-2" value="计算参考功率" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="220" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
