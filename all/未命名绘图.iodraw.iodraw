@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJ-PjlHwF201UchX6mih-8" value="时域叠加&lt;div&gt;x_noisy(t)=x(t)+n(t)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="545" width="165" height="85" as="geometry" />
+          <mxGeometry x="226.25" y="540" width="165" height="85" as="geometry" />
         </mxCell>
         <mxCell id="nJ-PjlHwF201UchX6mih-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJ-PjlHwF201UchX6mih-10" target="nJ-PjlHwF201UchX6mih-12">
           <mxGeometry relative="1" as="geometry" />
