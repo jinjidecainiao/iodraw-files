@@ -10,8 +10,14 @@
         <mxCell id="JermiLEP5ekBSfG2MZsz-1" value="swellex数据S5&lt;div&gt;（叠加Sαs非高斯脉冲噪声）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JermiLEP5ekBSfG2MZsz-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JermiLEP5ekBSfG2MZsz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JermiLEP5ekBSfG2MZsz-2" target="JermiLEP5ekBSfG2MZsz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JermiLEP5ekBSfG2MZsz-2" value="统计表征计算" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JermiLEP5ekBSfG2MZsz-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
