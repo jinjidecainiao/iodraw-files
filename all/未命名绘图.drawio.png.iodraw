@@ -40,7 +40,7 @@
         <mxCell id="JermiLEP5ekBSfG2MZsz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JermiLEP5ekBSfG2MZsz-10" target="JermiLEP5ekBSfG2MZsz-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JermiLEP5ekBSfG2MZsz-10" value="分支2：提取ECF特征" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JermiLEP5ekBSfG2MZsz-10" value="分支2：MatrixCNN骨干网络&lt;div&gt;提取ECF特征&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JermiLEP5ekBSfG2MZsz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JermiLEP5ekBSfG2MZsz-12" target="JermiLEP5ekBSfG2MZsz-19">
