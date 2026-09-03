@@ -43,8 +43,14 @@
         <mxCell id="JermiLEP5ekBSfG2MZsz-10" value="分支2：提取ECF特征" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JermiLEP5ekBSfG2MZsz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JermiLEP5ekBSfG2MZsz-12" target="JermiLEP5ekBSfG2MZsz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JermiLEP5ekBSfG2MZsz-12" value="可靠性门控自适应融合模块" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JermiLEP5ekBSfG2MZsz-19" value="可靠性门控自适应融合模块" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
