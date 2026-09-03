@@ -31,7 +31,7 @@
         <mxCell id="JermiLEP5ekBSfG2MZsz-6" value="ECF经验特征函数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JermiLEP5ekBSfG2MZsz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JermiLEP5ekBSfG2MZsz-8" target="JermiLEP5ekBSfG2MZsz-12">
+        <mxCell id="JermiLEP5ekBSfG2MZsz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="JermiLEP5ekBSfG2MZsz-8" target="JermiLEP5ekBSfG2MZsz-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JermiLEP5ekBSfG2MZsz-8" value="分支1：提取SCM特征" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -41,7 +41,7 @@
           <mxGeometry x="570" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JermiLEP5ekBSfG2MZsz-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
