@@ -13,11 +13,17 @@
         <mxCell id="JermiLEP5ekBSfG2MZsz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JermiLEP5ekBSfG2MZsz-2" target="JermiLEP5ekBSfG2MZsz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JermiLEP5ekBSfG2MZsz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JermiLEP5ekBSfG2MZsz-2" target="JermiLEP5ekBSfG2MZsz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JermiLEP5ekBSfG2MZsz-2" value="统计表征计算" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JermiLEP5ekBSfG2MZsz-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="JermiLEP5ekBSfG2MZsz-4" value="SCM协方差矩阵" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JermiLEP5ekBSfG2MZsz-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
