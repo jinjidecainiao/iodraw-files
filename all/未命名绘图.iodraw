@@ -1,0 +1,61 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="xJ4fHne3Q4zOpXa2c3a1">
+    <mxGraphModel dx="2066" dy="1181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nJ-PjlHwF201UchX6mih-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nJ-PjlHwF201UchX6mih-1" target="nJ-PjlHwF201UchX6mih-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-1" value="原始SwellEx时域数据&lt;div&gt;(J1312315.vla.21els.sio)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="90" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nJ-PjlHwF201UchX6mih-2" target="nJ-PjlHwF201UchX6mih-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-2" value="计算参考功率" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="222.5" y="200" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nJ-PjlHwF201UchX6mih-4" target="nJ-PjlHwF201UchX6mih-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-4" value="设置20种噪声状态&lt;div&gt;(alpha，GSNR)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="222.5" y="300" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nJ-PjlHwF201UchX6mih-6" target="nJ-PjlHwF201UchX6mih-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-6" value="生成连续SαS噪声" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="226.25" y="420" width="167.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nJ-PjlHwF201UchX6mih-8" target="nJ-PjlHwF201UchX6mih-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-8" value="时域叠加&lt;div&gt;x_noisy(t)=x(t)+n(t)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="226.25" y="540" width="165" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nJ-PjlHwF201UchX6mih-10" target="nJ-PjlHwF201UchX6mih-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-10" value="切10个重叠快拍" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="228.75" y="650" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nJ-PjlHwF201UchX6mih-12" target="nJ-PjlHwF201UchX6mih-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-12" value="FFT" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="233.75" y="750" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nJ-PjlHwF201UchX6mih-14" target="nJ-PjlHwF201UchX6mih-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-14" value="13个频率" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="228.75" y="860" width="161.25" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ-PjlHwF201UchX6mih-16" value="保存HDF5&lt;div&gt;shape:(20,3285,13,10,21)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="234.21" y="950" width="151.57" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
