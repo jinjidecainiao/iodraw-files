@@ -27,7 +27,7 @@
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-13" value="为同一样本构造原始SCM与稳健特征，并保持样本对齐" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wBe7DYQJVFtYw0xhNQuR-12">
           <mxGeometry y="30" width="241" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wBe7DYQJVFtYw0xhNQuR-14" value="Item 2" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wBe7DYQJVFtYw0xhNQuR-12">
+        <mxCell id="wBe7DYQJVFtYw0xhNQuR-14" value="稳健特征分支提取抗脉冲噪声的表征" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wBe7DYQJVFtYw0xhNQuR-12">
           <mxGeometry y="60" width="241" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-15" value="Item 3" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wBe7DYQJVFtYw0xhNQuR-12">
