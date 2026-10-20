@@ -19,7 +19,7 @@
           <mxGeometry y="90" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-11" value="两路特征的尺度与可靠性会随着噪声条件变化" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="530" width="270" height="30" as="geometry" />
+          <mxGeometry y="520" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-12" value="方法" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="299" y="400" width="261" height="120" as="geometry" />
@@ -34,7 +34,7 @@
           <mxGeometry y="90" width="261" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-16" value="特征对齐与自适应融合联合距离回归" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="299" y="530" width="251" height="30" as="geometry" />
+          <mxGeometry x="299" y="520" width="261" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
