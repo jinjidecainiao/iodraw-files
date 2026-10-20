@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-21" value="预期结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="410" width="150" height="120" as="geometry" />
+          <mxGeometry x="600" y="410" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-22" value="实现强脉冲噪声下稳定、高精度的水下被动测距，兼顾空间细节保留与噪声鲁棒性，适配变化的噪声强度条件。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wBe7DYQJVFtYw0xhNQuR-21">
           <mxGeometry y="30" width="150" height="90" as="geometry" />
