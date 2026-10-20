@@ -20,8 +20,16 @@
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-3" value="原始SCM易受脉冲离群值影响，噪声增强时测距不稳" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wBe7DYQJVFtYw0xhNQuR-1">
           <mxGeometry y="60" width="270" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wBe7DYQJVFtYw0xhNQuR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wBe7DYQJVFtYw0xhNQuR-1" source="wBe7DYQJVFtYw0xhNQuR-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="105.28571428571422" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-4" value="仅依赖稳健特征可能损失SCM中的空间相关细节" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wBe7DYQJVFtYw0xhNQuR-1">
           <mxGeometry y="90" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wBe7DYQJVFtYw0xhNQuR-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wBe7DYQJVFtYw0xhNQuR-11" target="wBe7DYQJVFtYw0xhNQuR-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-11" value="两路特征的尺度与可靠性会随着噪声条件变化" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="520" width="270" height="30" as="geometry" />
