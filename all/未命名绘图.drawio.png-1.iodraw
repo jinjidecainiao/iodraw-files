@@ -34,7 +34,7 @@
           <mxGeometry y="90" width="251" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wBe7DYQJVFtYw0xhNQuR-16" value="特征对齐与自适应融合联合距离回归" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="299" y="530" width="241" height="30" as="geometry" />
+          <mxGeometry x="299" y="530" width="251" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
